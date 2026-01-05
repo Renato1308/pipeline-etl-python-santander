@@ -21,3 +21,5 @@ Este projeto demonstra um fluxo completo de **ETL (Extração, Transformação e
 
 ---
 **Projeto desenvolvido por Renato da Silva Araujo focado no aprendizado de Engenharia e Ciência de Dados.**
+## 🚀 Como foi desenvolvido
+Este projeto foi executado no **Google Colab**, utilizando a biblioteca **Pandas** para processar os dados. O fluxo seguiu o padrão ETL: extração de dados fictícios, transformação com lógica de mensagens personalizadas e carregamento para um novo arquivo CSV.
